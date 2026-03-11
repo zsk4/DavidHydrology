@@ -10,5 +10,6 @@ dependencies = [
     "pyshp>=3.0.3",
     "scikit-image>=0.26.0",
     "scikit-learn>=1.8.0",
+    "vaex>=4.19.0",
     "xarray[complete]>=2025.12.0",
 ]
